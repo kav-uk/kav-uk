@@ -1,8 +1,8 @@
-# 🤖 Machine Learning Engineer | [Kavuri K]
+# 🤖 Machine Learning Engineer | Kavuri K
 
 ![ML Engineer Banner](https://user-images.githubusercontent.com/your-banner-url)
 
-Hello! I'm **[Kavuri K]**, a dedicated **Machine Learning Engineer** specializing in building and deploying scalable machine learning models, deep learning architectures, and data-driven solutions.
+Hello! I'm **Kavuri K**, a dedicated **Machine Learning Engineer** specializing in building and deploying scalable machine learning models, deep learning architectures, and data-driven solutions.
 
 ---
 
